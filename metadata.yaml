@@ -1,0 +1,29 @@
+_repo: Mary-Queen-of-Scots-1542-1587_38048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rait, Robert S. (Robert Sangster)
+    aliases:
+    - Rait, Robert Sangster, Sir
+    - Rait, R. S. (Robert Sangster)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '6844'
+    url: http://www.gutenberg.org/2009/agents/6844
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, Queen of Scots, 1542-1587'
+- !lcc 'DA'
+title: Mary Queen of Scots, 1542-1587
+url: http://www.gutenberg.org/ebooks/38048
